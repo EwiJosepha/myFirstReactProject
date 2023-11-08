@@ -1,10 +1,10 @@
 
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Landing from './Components/Landingpage/Landing.jsx'
-import Formm from './Components/Formfilling/Form.jsx'
-import Profilecreated from './Components/Profilepic/profile.jsx'
-import  Displaydata from './Components/Edittfile/Editbtn.jsx'
+// import Landing from './Components/Landingpage/Landing.jsx'
+// import Formm from './Components/Formfilling/Form.jsx'
+// import Profilecreated from './Components/Profilepic/profile.jsx'
+// import  Displaydata from './Components/Edittfile/Editbtn.jsx'
 
 function App() {
 
